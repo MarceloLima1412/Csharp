@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProjetoApi",
+    "\\ProjetoDatabaseAPI",
+    "\\ProjetoDatabaseAPI\\App_Data",
+    "\\ProjetoDatabaseAPI\\App_Start",
+    "\\ProjetoDatabaseAPI\\Controllers"
+  ],
+  "SelectedNode": "\\ProjetoDatabaseAPI\\App_Data\\Database.mdf",
+  "PreviewInSolutionExplorer": false
+}

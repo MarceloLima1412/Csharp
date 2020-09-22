@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+    <title> Routes </title>
+</head>
+<body>
+    <h1> Routes</h1>
+    <table style="width:100%">
+        <tr>
+            <th>Methods</th>
+            <th>Route</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>api/sensor/{id}</td>
+            <td>Esta rota é disponibilizada para ir buscar todos os dados de um sensor especifico. Nesta rota tem de indicar o id do sensor</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>api/sensor</td>
+            <td>Esta rota é disponibilizada para ir buscar todos os dados de todos os sensores presentes na base de dados</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>api/sensor/insert</td>
+            <td>Esta rota é disponibilizada para inserir dados de um sensor na base de dados</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>api/sensor/delete/{id}</td>
+            <td>Esta rota é disponiblizada para eliminar dados de um determinado sensor. Esta rota pode ser utilizada por exemplo para eliminar dados de um sensor avariado</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>api/sensor/update/{id}/{timestamp}</td>
+            <td>Esta rota é disponibilizada para mudar dados de um sensor num determinado tempo. Esta rota pode ser utilizada por exemplo para atualizar dados de um sensor que num determinado tempo enviou dados errados</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>api/alert</td>
+            <td>Esta rota é disponibilizada para ir buscar todos os dados de todos os alertas presentes na base de dados</td>
+        </tr>
+
+    </table>
+</body>
+</html>
+
+<script type="text/javascript">
+
+        $.ajax({
+            type: 'GET',
+            url: "api/values/Get",
+            datatype: 'json',
+            headers:
+                {
+                    Authorization: 'Basic ' + btoa(username + ':' + password)
+                },
+        });
+</script> 

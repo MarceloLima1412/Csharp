@@ -1,0 +1,4 @@
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\Sub\bin\Debug\netcoreapp3.0\Sub.exe
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\Sub\obj\Debug\netcoreapp3.0\Sub.csprojAssemblyReference.cache
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\Sub\obj\Debug\netcoreapp3.0\Sub.AssemblyInfoInputs.cache
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\Sub\obj\Debug\netcoreapp3.0\Sub.AssemblyInfo.cs

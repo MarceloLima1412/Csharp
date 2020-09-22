@@ -1,0 +1,16 @@
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\bin\Debug\ProjetoApi.exe.config
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\bin\Debug\ProjetoApi.exe
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\bin\Debug\ProjetoApi.pdb
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\obj\Debug\ProjetoApi.csprojAssemblyReference.cache
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\obj\Debug\ProjetoApi.Form1.resources
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\obj\Debug\ProjetoApi.Properties.Resources.resources
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\obj\Debug\ProjetoApi.csproj.GenerateResource.cache
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\obj\Debug\ProjetoApi.exe
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\obj\Debug\ProjetoApi.pdb
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\bin\Debug\M2Mqtt.Net.dll
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\bin\Debug\M2Mqtt.Net.pdb
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\obj\Debug\ProjetoApi.csproj.CopyComplete
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\bin\Debug\Newtonsoft.Json.dll
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\bin\Debug\RestSharp.dll
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\bin\Debug\Newtonsoft.Json.xml
+D:\4AnoUniversidade\IS\Projeto\ProjetoApp\ProjetoApi\bin\Debug\RestSharp.xml
